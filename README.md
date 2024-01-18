@@ -18,7 +18,11 @@ Open to work in any position as Front-end Developer roles
 $Availabilities$
 -
 
-| Monday | Tuesday | Wednesday | Thursday |
+Timezone: EST/ UTC-5
+| Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| ------ | ------- | --------- | -------- | ------ | -------- | ------ |
+| 7 A.M - 8 P.M | 7 A.M - 8 P.M | 7 A.M - 8 P.M | 7 A.M - 8 P.M | 7 A.M - 8 P.M | 7 A.M - 8 P.M | Not available |
+
 
 $${\color{orange}git \ checkout \ -b \ \ \ 'CodingForLife'}$$ <br>
 $${\color{orange}git \ add \ \ \ 'Fun, \ Patient, \ Concentrate'}$$ <br>
