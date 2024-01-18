@@ -1,5 +1,5 @@
 ### Hi there, I'm Yen Huynh 👋
-$About \ me$
+$About \ \ me$
 -
 ```diff
 😎 Self-leaner Web Development
@@ -7,7 +7,15 @@ $About \ me$
 📖 Intermediate in HTML, CSS, JS
 📑 Beginner in React.js
 ```
----
+$Background \ \ information$
+-
+```diff
+Perform an Advanced Diploma Degree in Computer Engineering Technology (2022 - 2025)
+Obtained experience in communication skills, design, implementation, and maintainance.
+
+
+```
+
 $${\color{orange}git \ checkout \ -b \ \ \ 'CodingForLife'}$$ <br>
 $${\color{orange}git \ add \ \ \ 'Fun, \ Patient, \ Concentrate'}$$ <br>
 $${\color{orange}git \ commit \ -m \ \ \ 'JS, \ HTML, \ CSS'}$$ <br>
