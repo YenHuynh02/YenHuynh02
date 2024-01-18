@@ -23,12 +23,15 @@ Timezone: EST/ UTC-5
 | ------ | ------- | --------- | -------- | ------ | -------- | ------ |
 | 7 A.M - 8 P.M | 7 A.M - 8 P.M | 7 A.M - 8 P.M | 7 A.M - 8 P.M | 7 A.M - 8 P.M | 7 A.M - 8 P.M | Not available |
 
+```diff
+git checkout -b 'CodingForLife'
+git add 'Fun, Patient, Concentrate'
+git commit -m 'JS, HTML, CSS'
+git push -u origin 'Front-end Developer'
+```
 
-$${\color{orange}git \ checkout \ -b \ \ \ 'CodingForLife'}$$ <br>
-$${\color{orange}git \ add \ \ \ 'Fun, \ Patient, \ Concentrate'}$$ <br>
-$${\color{orange}git \ commit \ -m \ \ \ 'JS, \ HTML, \ CSS'}$$ <br>
-$${\color{orange}git \ push \ -u \ origin \ \ 'Front-end \ \ Developer'}$$ 
--
+---
+
 $Languages$
 
 <code><img height="30" alt="JavaScript" src="images/javascript.png"></code>
