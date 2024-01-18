@@ -11,10 +11,14 @@ $Background \ \ information$
 -
 ```diff
 Perform an Advanced Diploma Degree in Computer Engineering Technology (2022 - 2025)
-Obtained experience in communication skills, design, implementation, and maintainance.
-
-
+Obtained experience in communication skills, design, implementation, and maintainance
+Open to work in any position as Front-end Developer roles
 ```
+
+$Availabilities$
+-
+
+| Monday | Tuesday | Wednesday | Thursday |
 
 $${\color{orange}git \ checkout \ -b \ \ \ 'CodingForLife'}$$ <br>
 $${\color{orange}git \ add \ \ \ 'Fun, \ Patient, \ Concentrate'}$$ <br>
