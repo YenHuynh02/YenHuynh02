@@ -24,15 +24,15 @@ ${\color{orange}git \ push \ -u \ origin \ \ 'Front-end \ \ Developer'}$ ğŸ§‘ğŸ
 <code><img height="30" alt="Php" src="images/php.png"></code>
 
 <code>Frameworks</code>
-<code><img height="30" alt="NodeJS" src="images/Node.png"></code>
 <code><img height="30" alt="ReactJS" src="images/react.png"></code>
+<code><img height="30" alt="NodeJS" src="images/Node.png"></code>
 <code><img height="30" alt="AngularJS" src="images/angular.png"></code>
 <code><img height="30" alt="BootstrapJS" src="images/bootstrap.png"></code>
 
 <code>Technologies</code>
-<code><img height="30" alt="NodeJS" src="images/node.png"></code>
-<code><img height="30" alt="ReactJS" src="images/react.png"></code>
-<code><img height="30" alt="AngularJS" src="images/angular.png"></code>
-<code><img height="30" alt="BootstrapJS" src="images/bootstrap.png"></code>
-<code><img height="30" alt="Java" src="images/java.png"></code>
-<code
+<code><img height="30" alt="NodeJS" src="images/vscode.png"></code>
+<code><img height="30" alt="ReactJS" src="images/mySQLworkbench.png"></code>
+<code><img height="30" alt="Java" src="images/easyPHP.png"></code>
+<code><img height="30" alt="AngularJS" src="images/vmware.png"></code>
+<code><img height="30" alt="BootstrapJS" src="images/Eclipse.png"></code>
+
