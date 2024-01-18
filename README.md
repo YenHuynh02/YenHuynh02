@@ -1,11 +1,13 @@
 ### Hi there, I'm Yen Huynh 👋
 $About \ me$
+-
 ```diff
 😎 Self-leaner Web Development
 🫡 Concentrate in Front-end environment
 📖 Intermediate in HTML, CSS, JS
 📑 Beginner in React.js
 ```
+---
 $${\color{orange}git \ checkout \ -b \ \ \ 'CodingForLife'}$$ <br>
 $${\color{orange}git \ add \ \ \ 'Fun, \ Patient, \ Concentrate'}$$ <br>
 $${\color{orange}git \ commit \ -m \ \ \ 'JS, \ HTML, \ CSS'}$$ <br>
