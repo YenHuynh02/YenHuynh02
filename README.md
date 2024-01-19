@@ -32,7 +32,7 @@ git push -u origin 'Front-end Developer'
 
 ---
 
-$Languages$
+$Languages \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \\ \\ \\ Frameworks$
 
 <code><img height="30" alt="JavaScript" src="images/javascript.png"></code>
 <code><img height="30" alt="CSS" src="images/css.png"></code>
@@ -45,7 +45,7 @@ $Database$
 <code><img height="30" alt="SQL" src="images/sql.png"></code>
 <code><img height="30" alt="Php" src="images/php.png"></code>
 
-$Frameworks$
+
 
 <code><img height="30" alt="ReactJS" src="images/react.png"></code>
 <code><img height="30" alt="NodeJS" src="images/Node.png"></code>
