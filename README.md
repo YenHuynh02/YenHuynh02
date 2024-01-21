@@ -7,15 +7,14 @@ $About \ \ me$
 📖 Intermediate in HTML, CSS, JS
 📑 Beginner in React.js
 ```
-$Background \ \ information$
+$$Background \ \ information$$
 -
 ```diff
 Perform an Advanced Diploma Degree in Computer Engineering Technology (2022 - 2025)
 Obtained experience in communication skills, design, implementation, and maintainance
 Open to work in any position as Front-end Developer roles
 ```
-
-$Availabilities$
+$$Availabilities$$
 -
 
 Timezone: EST/ UTC-5
@@ -58,8 +57,6 @@ $Technologies$
 <code><img height="30" alt="Java" src="images/easyPHP.png"></code>
 <code><img height="30" alt="BootstrapJS" src="images/Eclipse.png"></code>
 <code><img height="30" alt="AngularJS" src="images/vmware.png"></code>
-
 ---
-
 $$Resume$$
 -
