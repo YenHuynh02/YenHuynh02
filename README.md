@@ -59,5 +59,7 @@ $Technologies$
 <code><img height="30" alt="BootstrapJS" src="images/Eclipse.png"></code>
 <code><img height="30" alt="AngularJS" src="images/vmware.png"></code>
 
-$Resume$
+---
+
+$$Resume$$
 -
