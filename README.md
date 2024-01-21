@@ -1,5 +1,10 @@
 ### Hi there, I'm Yen Huynh 👋
 ---
+$$Resume$$
+-
+<code><a href="images/Resume - Yen Huynh.pdf" download>Resume</a></code>
+
+---
 $$About \ \ me$$
 -
 ```diff
@@ -59,8 +64,3 @@ $Technologies$
 <code><img height="30" alt="Java" src="images/easyPHP.png"></code>
 <code><img height="30" alt="BootstrapJS" src="images/Eclipse.png"></code>
 <code><img height="30" alt="AngularJS" src="images/vmware.png"></code>
-
----
-$$Resume$$
--
-<code><a href="images/Resume - Yen Huynh.pdf" download>Resume</a></code>
