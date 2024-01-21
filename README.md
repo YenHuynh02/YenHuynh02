@@ -30,7 +30,7 @@ git commit -m 'JS, HTML, CSS'
 git push -u origin 'Front-end Developer'
 ```
 ---
-$Languages$ <pre> &nbsp </pre> $Frameworks$
+$Languages$ $Frameworks$
 
 <code><img height="30" alt="JavaScript" src="images/javascript.png"></code>
 <code><img height="30" alt="CSS" src="images/css.png"></code>
