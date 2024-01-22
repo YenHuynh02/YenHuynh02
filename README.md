@@ -2,7 +2,7 @@
 ---
 $$Resume$$
 -
-<code><a href="images/Resume - Yen Huynh.pdf" download><img src="images/resume.png"></a></code>
+<code><a href="images/Resume - Yen Huynh.pdf" download><img src="images/resume.png" height="50"></a></code>
 ---
 $$About \ \ me$$
 -
