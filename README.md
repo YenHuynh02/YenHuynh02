@@ -2,8 +2,7 @@
 ---
 $$Resume$$
 -
-<code><a href="images/Resume - Yen Huynh.pdf" download>Resume</a></code>
-
+<code><a href="images/Resume - Yen Huynh.pdf" download><img src="images/resume.png"></a></code>
 ---
 $$About \ \ me$$
 -
