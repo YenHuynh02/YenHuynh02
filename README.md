@@ -41,12 +41,12 @@ git push -u origin 'Front-end Developer'
 $Languages$
 
 <code><img height="30" alt="JavaScript" src="images/javascript.png"></code>
+<code><img height="30" alt="TypeScript" src="images/typescript.png"></code>
 <code><img height="30" alt="CSS" src="images/css.png"></code>
 <code><img height="30" alt="HTML" src="images/html.png"></code>
 <code><img height="30" alt="C" src="images/c.png"></code>
-<code><img height="30" alt="Java" src="images/java.png"></code>
 <code><img height="30" alt="C++" src="images/cpp.png"></code>
-<code><img height="30" alt="TypeScript" src="images/typescript.png"></code>
+<code><img height="30" alt="Java" src="images/java.png"></code>
 <code><img height="30" alt="R" src="images/R.png"></code>
 
 $Database$
