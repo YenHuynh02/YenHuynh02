@@ -45,6 +45,9 @@ $Languages$
 <code><img height="30" alt="HTML" src="images/html.png"></code>
 <code><img height="30" alt="C" src="images/c.png"></code>
 <code><img height="30" alt="Java" src="images/java.png"></code>
+<code><img height="30" alt="C++" src="images/cpp.png"></code>
+<code><img height="30" alt="TypeScript" src="images/typescript.png"></code>
+<code><img height="30" alt="R" src="images/R.png"></code>
 
 $Database$
 
@@ -65,3 +68,4 @@ $Technologies$
 <code><img height="30" alt="Java" src="images/easyPHP.png"></code>
 <code><img height="30" alt="BootstrapJS" src="images/Eclipse.png"></code>
 <code><img height="30" alt="AngularJS" src="images/vmware.png"></code>
+<code><img height="30" alt="RStudio" src="images/rstudio.png"></code>
