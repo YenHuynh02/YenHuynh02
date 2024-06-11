@@ -64,6 +64,8 @@ $Frameworks$
 $Technologies$
 
 <code><img height="30" alt="NodeJS" src="images/vscode.png"></code>
+<code><img height="30" alt="VsCode2022" src="images/vscode2022.png"></code>
+<code><img height="30" alt="GitBash" src="images/gitbash.png"></code>
 <code><img height="30" alt="ReactJS" src="images/mySQLworkbench.png"></code>
 <code><img height="30" alt="Java" src="images/easyPHP.png"></code>
 <code><img height="30" alt="BootstrapJS" src="images/Eclipse.png"></code>
