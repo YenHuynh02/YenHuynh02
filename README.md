@@ -54,40 +54,46 @@ git push -u origin 'Front-end Developer'
 
 ---
 
-<h3 align="center">Languages</h3>
+$$Languages \\ and \\ Technologies$$
+--
+
+$$Languages$$
 <p align="center">
-<code><img height="30" alt="JavaScript" src="images/javascript.png"></code>
-<code><img height="30" alt="TypeScript" src="images/typescript.png"></code>
-<code><img height="30" alt="CSS" src="images/css.png"></code>
-<code><img height="30" alt="HTML" src="images/html.png"></code>
-<code><img height="30" alt="C" src="images/c.png"></code>
-<code><img height="30" alt="C++" src="images/cpp.png"></code>
-<code><img height="30" alt="Java" src="images/java.png"></code>
-<code><img height="30" alt="R" src="images/R.png"></code>
+<code><img height="40" alt="JavaScript" src="images/javascript.png"></code>
+<code><img height="40" alt="TypeScript" src="images/typescript.png"></code>
+<code><img height="40" alt="CSS" src="images/css.png"></code>
+<code><img height="40" alt="HTML" src="images/html.png"></code>
+<code><img height="40" alt="C" src="images/c.png"></code>
+<code><img height="40" alt="C++" src="images/cpp.png"></code>
+<code><img height="40" alt="Java" src="images/java.png"></code>
+<code><img height="40" alt="R" src="images/R.png"></code>
 </p>
 
-<h3 align="center">Technologies</h3>
+$$Technologies$$
+
 <p align="center">
-<code><img height="30" alt="NodeJS" src="images/vscode.png"></code>
-<code><img height="30" alt="VsCode2022" src="images/vscode2022.png"></code>
-<code><img height="30" alt="GitBash" src="images/gitbash.png"></code>
-<code><img height="30" alt="ReactJS" src="images/mySQLworkbench.png"></code>
-<code><img height="30" alt="Java" src="images/easyPHP.png"></code>
-<code><img height="30" alt="BootstrapJS" src="images/Eclipse.png"></code>
-<code><img height="30" alt="AngularJS" src="images/vmware.png"></code>
-<code><img height="30" alt="RStudio" src="images/rstudio.png"></code>
+<code><img height="40" alt="NodeJS" src="images/vscode.png"></code>
+<code><img height="40" alt="VsCode2022" src="images/vscode2022.png"></code>
+<code><img height="40" alt="GitBash" src="images/gitbash.png"></code>
+<code><img height="40" alt="ReactJS" src="images/mySQLworkbench.png"></code>
+<code><img height="40" alt="Java" src="images/easyPHP.png"></code>
+<code><img height="40" alt="BootstrapJS" src="images/Eclipse.png"></code>
+<code><img height="40" alt="AngularJS" src="images/vmware.png"></code>
+<code><img height="40" alt="RStudio" src="images/rstudio.png"></code>
 </p>
 
-<h3 align="center">Frameworks</h3>
+$$Frameworks$$
+
 <p align="center">
-<code><img height="30" alt="ReactJS" src="images/react.png"></code>
-<code><img height="30" alt="NodeJS" src="images/Node.png"></code>
-<code><img height="30" alt="AngularJS" src="images/angular.png"></code>
-<code><img height="30" alt="BootstrapJS" src="images/bootstrap.png"></code>
+<code><img height="40" alt="ReactJS" src="images/react.png"></code>
+<code><img height="40" alt="NodeJS" src="images/Node.png"></code>
+<code><img height="40" alt="AngularJS" src="images/angular.png"></code>
+<code><img height="40" alt="BootstrapJS" src="images/bootstrap.png"></code>
 </p>
 
-<h3 align="center">Database</h3>
+$$Database$$
+
 <p align="center">
-<code><img height="30" alt="SQL" src="images/sql.png"></code>
-<code><img height="30" alt="Php" src="images/php.png"></code>
+<code><img height="40" alt="SQL" src="images/sql.png"></code>
+<code><img height="40" alt="Php" src="images/php.png"></code>
 </p>
