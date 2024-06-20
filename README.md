@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yen Huynh 👋</h1>
+<h1 align="center">Hi there, I'm Yen Huynh <img src="images/Hi.gif" height="50"></h1>
 <h3 align="center">🖥️ Front-End Engineer | Future Full Stack Pioneer 🖥️</h3>
 
 <br>
@@ -6,6 +6,8 @@
 <p align="center">
 <code><img src="images/github-contribution-grid-snake.svg"></code>
 </p>
+
+<br>
 
 $$Resume$$
 -
