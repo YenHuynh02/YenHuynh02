@@ -1,19 +1,17 @@
 <h1 align="center">Hi there, I'm Yen Huynh <img src="images/Hi.gif" height="50"></h1>
 <h3 align="center">🖥️ Front-End Engineer | Future Full Stack Pioneer 🖥️</h3>
 
-<br>
-
 <p align="center">
 <code><img src="images/github-contribution-grid-snake.svg"></code>
 </p>
-
-<br>
 
 $$Resume$$
 -
 <p align="center">
       <a href="images/Resume - Yen Huynh.pdf" download><img src="images/resume.png" height="70"></a>
 </p>
+
+<br>
 
 ---
 $$About \ \ me$$
@@ -24,6 +22,9 @@ $$About \ \ me$$
 📖 Intermediate in HTML, CSS, JS
 📑 Beginner in React.js
 ```
+
+<br>
+
 ---
 $$Background \ \ information$$
 -
@@ -32,6 +33,9 @@ Perform an Advanced Diploma Degree in Computer Engineering Technology (2022 - 20
 Obtained experience in communication skills, design, implementation, and maintainance
 Open to work in any position as Front-end Developer roles
 ```
+
+<br>
+
 ---
 $$Availabilities$$
 -
@@ -46,9 +50,12 @@ git add 'Fun, Patient, Concentrate'
 git commit -m 'JS, HTML, CSS'
 git push -u origin 'Front-end Developer'
 ```
----
-$Languages$
+<br>
 
+---
+
+<h3 align="center">Languages</h3>
+<p align="center">
 <code><img height="30" alt="JavaScript" src="images/javascript.png"></code>
 <code><img height="30" alt="TypeScript" src="images/typescript.png"></code>
 <code><img height="30" alt="CSS" src="images/css.png"></code>
@@ -57,21 +64,10 @@ $Languages$
 <code><img height="30" alt="C++" src="images/cpp.png"></code>
 <code><img height="30" alt="Java" src="images/java.png"></code>
 <code><img height="30" alt="R" src="images/R.png"></code>
+</p>
 
-$Database$
-
-<code><img height="30" alt="SQL" src="images/sql.png"></code>
-<code><img height="30" alt="Php" src="images/php.png"></code>
-
-$Frameworks$
-
-<code><img height="30" alt="ReactJS" src="images/react.png"></code>
-<code><img height="30" alt="NodeJS" src="images/Node.png"></code>
-<code><img height="30" alt="AngularJS" src="images/angular.png"></code>
-<code><img height="30" alt="BootstrapJS" src="images/bootstrap.png"></code>
-
-$Technologies$
-
+<h3 align="center">Technologies</h3>
+<p align="center">
 <code><img height="30" alt="NodeJS" src="images/vscode.png"></code>
 <code><img height="30" alt="VsCode2022" src="images/vscode2022.png"></code>
 <code><img height="30" alt="GitBash" src="images/gitbash.png"></code>
@@ -80,3 +76,18 @@ $Technologies$
 <code><img height="30" alt="BootstrapJS" src="images/Eclipse.png"></code>
 <code><img height="30" alt="AngularJS" src="images/vmware.png"></code>
 <code><img height="30" alt="RStudio" src="images/rstudio.png"></code>
+</p>
+
+<h3 align="center">Frameworks</h3>
+<p align="center">
+<code><img height="30" alt="ReactJS" src="images/react.png"></code>
+<code><img height="30" alt="NodeJS" src="images/Node.png"></code>
+<code><img height="30" alt="AngularJS" src="images/angular.png"></code>
+<code><img height="30" alt="BootstrapJS" src="images/bootstrap.png"></code>
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+<code><img height="30" alt="SQL" src="images/sql.png"></code>
+<code><img height="30" alt="Php" src="images/php.png"></code>
+</p>
