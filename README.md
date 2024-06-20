@@ -11,7 +11,7 @@
 $$Resume$$
 -
 <p align="center">
-      <a href="images/Resume - Yen Huynh.pdf" download><img src="images/resume.png" height="70"></a>
+      <a href="images/Resume - Yen Huynh.pdf" download><img src="images/resume.png" height="100"></a>
 </p>
 
 <br>
