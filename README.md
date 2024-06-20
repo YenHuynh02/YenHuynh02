@@ -5,6 +5,9 @@
 <code><img src="images/github-contribution-grid-snake.svg"></code>
 </p>
 
+<br>
+
+---
 $$Resume$$
 -
 <p align="center">
