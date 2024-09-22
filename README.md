@@ -4,9 +4,9 @@
 
 ```
 😎 Self-leaner Web Development
-🫡 Concentrate in the Front-end environment
-📖 Intermediate in HTML, CSS, JS
-📑 Beginner in React.js
+🫡 Concentrate in the Full Stack environment
+📖 Intermediate in JS, React.js, SASS, CSS, HTML, Node.js
+🧑🏻‍💻 Future Software Engineer
 ```
 
 ## 🌐 Socials: 
