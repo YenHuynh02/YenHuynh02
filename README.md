@@ -8,3 +8,4 @@
         <td><a href="https://taggai.carrd.co">https://taggai.carrd.co</a></td>
     </tr>
 </table>
+<p align="center" style="font-size:30px">&copy;2025 YEN HUYNH</p>
