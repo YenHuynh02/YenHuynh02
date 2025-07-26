@@ -1,11 +1,5 @@
-<table>
-    <tr align="center">
-        <td><p style='font-size: 30px'>Upcoming</p></td>
-        <td><img src="imgs/logo.png"></td>
-    </tr>
-    <tr align="center">
-        <td><img src="imgs/demo.png"></td>
-        <td><a href="https://taggai.carrd.co">https://taggai.carrd.co</a></td>
-    </tr>
-</table>
-<p align="center" style="font-size:30px">&copy;2025 YEN HUYNH</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
